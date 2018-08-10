@@ -1,5 +1,5 @@
 track testExample
-bigDataUrl https://dl.dropboxusercontent.com/s/iwn30s1d08faqt7/bedGraph_MARGEinput_DMSO_all_all.txt?dl=0
+bigDataUrl https://dl.dropboxusercontent.com/s/iwn30s1d08faqt7/bedGraph_MARGEinput_DMSO_all_all.txt
 shortLabel DMSO_all_all
 longLabel bedGraph_MARGEinput_DMSO_all_all
 type bedGraph
