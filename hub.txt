@@ -3,4 +3,4 @@ shortLabel UCSC Hub
 longLabel UCSC Genome Informatics Hub for Liao
 genomesFile genomes.txt
 email zhuo@ufl.edu
-descriptionUrl ucscHub.html
+descriptionUrl https://github.com/Caleb-Huo/UCSC_Liao_H3K27ac
