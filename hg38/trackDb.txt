@@ -2,4 +2,4 @@ track testExample
 bigDataUrl https://dl.dropboxusercontent.com/s/q650yf1rc76jj8z/SRR816995.ucsc.bigWig
 shortLabel DMSO_all_all
 longLabel bedGraph_MARGEinput_DMSO_all_all
-type bedGraph
+type bigWig
